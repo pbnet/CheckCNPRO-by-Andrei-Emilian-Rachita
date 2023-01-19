@@ -1,4 +1,5 @@
-﻿using System;
+// Code by Andrei-Emilian Rachita - andrei(at)rachita(dot)net
+using System;
 
 class Program
 {
